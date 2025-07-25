@@ -26,6 +26,8 @@ export default function Page() {
 
   const items = [
     { name: "รายวัน", amount: 50 },
+    { name: "รายเดือน", amount: 685 },
+    { name: "รายเดือน 2 คน", amount: 625 },
     { name: "น้ำเล็ก", amount: 10 },
     { name: "น้ำใหญ่", amount: 15 },
     { name: "โค๊ก", amount: 17 },
